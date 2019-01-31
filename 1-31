@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="https://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/img/spurs/slick-theme.css"/>
+<link rel="stylesheet" type="text/css" href="https://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/img/spurs/slick.css"/>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<style>
+    .background{ background-repeat:no-repeat; background-color: #000; color:#fff; border-left:solid #555 1px; border-right:solid #555 1px !important;}
+    *{
+        min-height: 0;
+        min-width: 0;
+    }
+
+    .slick-next:before{ background-image:url(https://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/img/spurs/arrow-point-to-right.png); background-size: 25px 30px;
+        display: inline-block;content: ""; height:30px; width:30px; background-repeat: no-repeat;}
+    .slick-prev:before{background-image:url(https://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/img/spurs/arrowhead-thin-outline-to-the-left.png); background-size: 25px 30px;
+        display: inline-block; content: ""; height:30px; width:30px; background-repeat: no-repeat;}
+    .not-front #content{
+        padding-bottom: 0 !important;}
+    .buyButton{background: #28a745;color: #ffffff;border: 1px solid #43952A !important;float:right;padding: 5px 10px;font-size: 15px;font-family: 'Open Sans Condensed', sans-serif;text-transform: uppercase;margin-top:11px;font-weight:700;}
+    .slick-slide img{display: inline-block; margin-right:20px;margin-top:15px;}
+    .buyClass{padding-left:20px; display:inline-block;}
+    .awayStadium{padding-left: 20px;line-height: 10px;display: inline-block;font-size: 10px;padding-top: 0;margin-top: 24px;text-transform: uppercase;}
+    .buyButton{display:inline-block;}
+    .logoImage{display:inline-block; float:right;}
+    .secondRow{margin-top:0px;}
+    .awayRow{margin-top:0px;}
+    .watch{margin-top: 8px !important;margin-bottom: 0 !important;text-align: center;font-size: 10px;padding-top: 0px;color: lightgray;background-color: #333;}
+    .watchAway{margin-top: 8px !important;margin-bottom: 0 !important;text-align: center;font-size: 10px;padding-top: 0;color: lightgray;background-color: #333;}
+
+    @media screen and (min-width:100px){
+        .date-schedule{padding-left:20px; padding-top:11px; display: inline-block; font-size:13px; font-family: 'Open Sans Condensed', sans-serif; font-weight:700;}
+        .opponent{line-height: 14px;padding-right:20px; padding-top:10px; display: inline-block; float:right; text-align:right; text-transform:uppercase; font-size:13px; font-family: 'Open Sans Condensed', sans-serif; font-weight:700;}
+        .opponentAway{line-height: 14px;padding-right:20px; padding-top:5px; display: inline-block; float:right; text-align:right; text-transform:uppercase; font-size:13px; font-family: 'Open Sans Condensed', sans-serif; font-weight:700;}
+        .slick-initialized .slick-slide{ height: 110px;}
+        #inputUpcoming{width:70%; margin:0 auto; }
+    }
+
+    @media screen and (min-width: 480px){
+        #inputUpcoming{width:90%; margin:0 auto; display:flex;}
+    }
+
+    @media screen and (min-width: 768px){
+        .slick-initialized .slick-slide{ height: 110px;}
+    }
+
+</style>
+</head>
+<body>
+
+
+
+
+
+<div class="" style="background-color: #000; margin-top:-1px;margin-left: -20px !important;margin-right: -20px;">
+    <div  style="" id="inputUpcoming">
+    </div>
+</div>
+
+<!--<script src="https://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/jquery-1.11.0.min.js"></script>-->
+<!--<script> var jqo = jQuery; </script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<!--<script> jQuery = jqo;</script>-->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script>
+    var $j = jQuery.noConflict();
+    
+    $j(document).ready(function($) {
+        
+
+        $.ajaxSetup({cache: false});
+        $.getJSON("https://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/nba-info-ticket-links.json",
+
+            function makeBannerInfo(data) {
+                
+
+                var gameInfo= data.gscd.g;
+                var gameNumberOfGames = data.gscd.g[length];
+
+
+                gameInfo.forEach(function(content, i) {
+                    
+
+                    var gameDate = content.gdte;
+                    var dateFomatted = gameDate.substring(5, 7) + "/" + gameDate.substring(8, 10);
+                    var gameTime = content.htm;
+                    var gameTime2 = content.htm;
+                    var gameTimeFormatted = gameTime.substring(11, 13);
+                    var gameTimeMinutesString = gameTime2.substring(14, 16);
+                    var gameTimeNumber= parseInt(gameTimeFormatted - 12);
+                    var opponentInfo = content.v;
+                    var opponentName = content.v.tn;
+                    var opponentCity = content.v.tc;
+
+                    var urlLogo = content.v.ta;
+                    var homeGame = content.an;
+                    var awayGame = content.h.ta;
+                    var markup = '';
+                    var dayOfWeek = new Date(gameTime2);
+                    var day1 = dayOfWeek.getDay();
+
+                    var today = new Date();
+                    var mm = today.getMonth()+1;
+                    var dd = today.getDate();
+                    var yyyy = today.getFullYear();
+                    var date = new Date(yyyy, mm, dd);
+
+                    var gameScheduleDate = new Date(gameTime);
+                    var pretendTime = new Date (gameTime);
+                    pretendTime.setDate(pretendTime.getDate() - 4);
+                    console.log(pretendTime);
+                    var aFewGamesOutDate = new Date(today);
+                    aFewGamesOutDate.setDate(aFewGamesOutDate.getDate()+15);
+                    console.log(aFewGamesOutDate);
+                    var weekday = new Array(7);
+                    weekday[0] = "SUN";
+                    weekday[1] = "MON";
+                    weekday [2] = "TUE";
+                    weekday [3] = "WED";
+                    weekday [4] = "THU";
+                    weekday [5] = "FRI";
+                    weekday [6] = "SAT";
+
+                    var inputDate = weekday[day1];
+                    var opponentInHomeCity = content.h.tc;
+                    var opponentHomeTeam = content.h.tn;
+                    var opponentFullAtHome = opponentInHomeCity +" " + opponentHomeTeam;
+                    var opponentAtHomeLogo = content.h.ta;
+                    var awayStadium = content.an;
+                    var timeAway = content.vtm;
+                    var awayTimeFormatted = timeAway.substring(11,13);
+                    var awayTimeNumber = parseInt(awayTimeFormatted - 12);
+
+                    var broadcastHome = content.bd.b[0].scope;
+                    var homeChannel = content.bd.b[0].disp;
+                    var homeChannel2 = content.bd.b[1].disp;
+
+                    var awayChannel1 = content.bd.b[0].disp;
+                    var awayChannel2 = content.bd.b[1].disp;
+                    //var awayChannel3 = content.bd.b[2].disp;
+                    var broadcastAway = content.bd.b[0].scope;
+
+
+
+
+                    if(today < gameScheduleDate && aFewGamesOutDate > gameScheduleDate){
+
+                        if(homeGame !== "AT&T Center"){
+
+                            if(broadcastAway == "natl") {
+
+                                markup += "<div class='background'>";
+                                markup += "<div class='date-schedule'>" + inputDate + " " + dateFomatted;
+                                markup += " @ " + awayTimeNumber + ':' + gameTimeMinutesString + "PM" + "</div>";
+                                markup += '<img class="logoImage" src="http://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/img/spurs/' + opponentAtHomeLogo + '.jpg" width="60px" height="60px">';
+                                markup += "<div class='awayRow'>";
+                                markup += "<div class='awayStadium'>" + "AWAY GAME:" + "<br>" + awayStadium + "</div>";
+                                markup += "<div class='opponentAway'>" + opponentInHomeCity + "<br>" + opponentHomeTeam + "</div>";
+                                markup += "<p class='watchAway'>" + "WATCH ON " + awayChannel1 +  "</p>";
+                                markup += "</div>";
+                                markup += "</div>";
+                                $("#inputUpcoming").append(markup);
+
+                            } else {
+                                markup += "<div class='background'>";
+                                markup += "<div class='date-schedule'>" + inputDate + " " + dateFomatted;
+                                markup += " @ " + awayTimeNumber + ':' + gameTimeMinutesString + "PM" + "</div>";
+                                markup += '<img class="logoImage" src="http://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/img/spurs/' + opponentAtHomeLogo + '.jpg" width="60px" height="60px">';
+                                markup += "<div class='awayRow'>";
+                                markup += "<div class='awayStadium'>" + "AWAY GAME:" + "<br>" + awayStadium + "</div>";
+                                markup += "<div class='opponentAway'>" + opponentInHomeCity + "<br>" + opponentHomeTeam + "</div>";
+                                markup += "<p class='watchAway'>" + "WATCH ON " + awayChannel2 + "</p>";
+                                markup += "</div>";
+                                markup += "</div>";
+                                $("#inputUpcoming").append(markup);
+                            }
+
+                        }else{
+
+                            if (broadcastHome == "natl") {
+                                var infoFromTicketJson = content.link;
+
+
+                                markup += "<div class='background'>";
+                                markup += "<div class='date-schedule'>" + inputDate + " " + dateFomatted;
+                                markup += " @ " + gameTimeNumber + ":" + gameTimeMinutesString + "PM";
+                                markup += "</div>";
+                                markup += '<img class="logoImage" src="https://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/img/spurs/' + urlLogo + '.jpg" width="60px" height="60px">';
+                                markup += "<div class='secondRow'>";
+                                markup += "<div class='opponent'>" + opponentCity + "<br>" + opponentName + "</div>";
+                                markup += "<a class='buyClass' target='_blank' href=" + '"' + infoFromTicketJson + '"' + ">" + "<button class='buyButton'>" + "Tickets" + "</button>" + "</a>";
+                                markup += "<p class='watch'>" + "WATCH ON " + homeChannel + ", " + homeChannel2 + "</p>";
+                                markup += "</div>";
+                                markup += "</div>";
+                                $("#inputUpcoming").append(markup)
+
+                            }else{
+                                var infoFromTicketJson = content.link;
+
+                                markup += "<div class='background'>";
+                                markup += "<div class='date-schedule'>" + inputDate + " " + dateFomatted;
+                                markup += " @ " + gameTimeNumber + ":" + gameTimeMinutesString + "PM";
+
+                                markup += "</div>";
+                                markup += '<img class="logoImage" src="https://www.nba.com/.element/media/2.0/teamsites/spurs/Rosalie/img/spurs/' + urlLogo + '.jpg" width="60px" height="60px">';
+                                markup += "<div class='secondRow'>";
+                                markup += "<a class='buyClass' target='_blank' href=" + '"' + infoFromTicketJson + '"' + ">" + "<button class='buyButton'>" + "Tickets" + "</button>" + "</a>";
+                                markup += "<div class='opponent'>" + opponentCity + "<br>" + opponentName + "</div>";
+
+                                markup += "<p class='watch'>" + "WATCH ON " + homeChannel + "</p>";
+                                markup += "</div>";
+                                markup += "</div>";
+                                $("#inputUpcoming").append(markup)
+                            }
+                        }
+                    }
+                });
+                $('#inputUpcoming').slick({
+                    slidesToShow:4,
+                    slidesToScroll:1,
+                    infinite:false,
+                    arrows: true,
+                    responsive: [
+                        {
+                            breakpoint: 1250,
+                            settings: {
+                                slidesToShow: 4,
+                                slidesToScroll: 1
+
+                            }
+                        },
+
+                        {
+                            breakpoint: 1249,
+                            settings: {
+                                slidesToShow: 3,
+                                slidesToScroll: 1
+                            }
+                        },
+
+                        {
+                            breakpoint: 860,
+                            settings: {
+                                slidesToShow: 2,
+                                slidesToScroll: 1
+                            }
+                        },
+                        {
+                            breakpoint: 480,
+                            settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1
+                            }
+                        }
+
+                    ]
+                });
+            });
+
+    });
+
+</script>
+
+
+
+
+
+
+</body>
+</html>
