@@ -1,0 +1,4745 @@
+﻿// 20191006045256
+// http://data.nba.com/data/v2015/json/mobile_teams/nba/2019/teams/spurs_schedule_02.json
+
+{
+  "gscd": {
+    "tid": 1610612759,
+    "g": [
+      {
+        "gid": "0021900010",
+        "gcode": "20191023/NYKSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-10-23",
+        "htm": "2019-10-23T19:30:00",
+        "vtm": "2019-10-23T20:30:00",
+        "etm": "2019-10-23T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F73E91FF?brand=spurs&extcmp=gw503658&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "MSG",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "ESPN NY 98.7",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612752,
+          "re": "0-0",
+          "ta": "NYK",
+          "tn": "Knicks",
+          "tc": "New York",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-10-24",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900033",
+        "gcode": "20191026/WASSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-10-26",
+        "htm": "2019-10-26T19:30:00",
+        "vtm": "2019-10-26T20:30:00",
+        "etm": "2019-10-26T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F7429201?brand=spurs&extcmp=gw503659&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "1500 AM",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612764,
+          "re": "0-0",
+          "ta": "WAS",
+          "tn": "Wizards",
+          "tc": "Washington",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-10-27",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900048",
+        "gcode": "20191028/PORSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-10-28",
+        "htm": "2019-10-28T19:30:00",
+        "vtm": "2019-10-28T17:30:00",
+        "etm": "2019-10-28T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F7459204?brand=spurs&extcmp=gw503660&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "NBC Sports Northwest",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "Rip City Radio 620",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612757,
+          "re": "0-0",
+          "ta": "POR",
+          "tn": "Trail Blazers",
+          "tc": "Portland",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-10-29",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900068",
+        "gcode": "20191031/SASLAC",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-10-31",
+        "htm": "2019-10-31T19:30:00",
+        "vtm": "2019-10-31T21:30:00",
+        "etm": "2019-10-31T22:30:00",
+        "an": "Staples Center",
+        "link": "na",
+        "ac": "Los Angeles",
+        "as": "CA",
+        "st": "1",
+        "stt": "10:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Prime Ticket",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "KENS",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "AM 570 LA Sports",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612746,
+          "re": "0-0",
+          "ta": "LAC",
+          "tn": "Clippers",
+          "tc": "LA",
+          "s": ""
+        },
+        "gdtutc": "2019-11-01",
+        "utctm": "02:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900076",
+        "gcode": "20191101/SASGSW",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-01",
+        "htm": "2019-11-01T19:30:00",
+        "vtm": "2019-11-01T21:30:00",
+        "etm": "2019-11-01T22:30:00",
+        "an": "Chase Center",
+        "link": "na",
+        "ac": "San Francisco",
+        "as": "CA",
+        "st": "1",
+        "stt": "10:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBC Sports Bay Area",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612744,
+          "re": "0-0",
+          "ta": "GSW",
+          "tn": "Warriors",
+          "tc": "Golden State",
+          "s": ""
+        },
+        "gdtutc": "2019-11-02",
+        "utctm": "02:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900088",
+        "gcode": "20191103/LALSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-03",
+        "htm": "2019-11-03T18:00:00",
+        "vtm": "2019-11-03T16:00:00",
+        "etm": "2019-11-03T19:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F7499209?brand=spurs&extcmp=gw503661&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Spectrum SportsNet",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612747,
+          "re": "0-0",
+          "ta": "LAL",
+          "tn": "Lakers",
+          "tc": "Los Angeles",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-11-04",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900099",
+        "gcode": "20191105/SASATL",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-05",
+        "htm": "2019-11-05T19:30:00",
+        "vtm": "2019-11-05T18:30:00",
+        "etm": "2019-11-05T19:30:00",
+        "an": "State Farm Arena",
+        "link": "na",
+        "ac": "Atlanta",
+        "as": "GA",
+        "st": "1",
+        "stt": "7:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southeast - Atlanta",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WZGC 92.9 FM The Game",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612737,
+          "re": "0-0",
+          "ta": "ATL",
+          "tn": "Hawks",
+          "tc": "Atlanta",
+          "s": ""
+        },
+        "gdtutc": "2019-11-06",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900113",
+        "gcode": "20191107/OKCSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-07",
+        "htm": "2019-11-07T19:30:00",
+        "vtm": "2019-11-07T19:30:00",
+        "etm": "2019-11-07T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F74C920B?brand=spurs&extcmp=gw503662&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Oklahoma",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WWLS 98.1FM OKC",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612760,
+          "re": "0-0",
+          "ta": "OKC",
+          "tn": "Thunder",
+          "tc": "Oklahoma City",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-11-08",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900127",
+        "gcode": "20191109/BOSSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-09",
+        "htm": "2019-11-09T16:00:00",
+        "vtm": "2019-11-09T17:00:00",
+        "etm": "2019-11-09T17:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F750920E?brand=spurs&extcmp=gw503663&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "5:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612738,
+          "re": "0-0",
+          "ta": "BOS",
+          "tn": "Celtics",
+          "tc": "Boston",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-11-09",
+        "utctm": "22:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900143",
+        "gcode": "20191111/MEMSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-11",
+        "htm": "2019-11-11T18:30:00",
+        "vtm": "2019-11-11T18:30:00",
+        "etm": "2019-11-11T19:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F7549211?brand=spurs&extcmp=gw503664&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "7:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southeast - Memphis",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "ESPN Radio 92.9FM / 680AM",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612763,
+          "re": "0-0",
+          "ta": "MEM",
+          "tn": "Grizzlies",
+          "tc": "Memphis",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-11-12",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900158",
+        "gcode": "20191113/SASMIN",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-13",
+        "htm": "2019-11-13T19:00:00",
+        "vtm": "2019-11-13T19:00:00",
+        "etm": "2019-11-13T20:00:00",
+        "an": "Target Center",
+        "link": "na",
+        "ac": "Minneapolis",
+        "as": "MN",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports North",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "830 WCCO",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612750,
+          "re": "0-0",
+          "ta": "MIN",
+          "tn": "Timberwolves",
+          "tc": "Minnesota",
+          "s": ""
+        },
+        "gdtutc": "2019-11-14",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900168",
+        "gcode": "20191115/SASORL",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-15",
+        "htm": "2019-11-15T19:00:00",
+        "vtm": "2019-11-15T18:00:00",
+        "etm": "2019-11-15T19:00:00",
+        "an": "Amway Center",
+        "link": "na",
+        "ac": "Orlando",
+        "as": "FL",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Florida",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "96.9 FM THE GAME / 98.1 SALSA Y MAS",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612753,
+          "re": "0-0",
+          "ta": "ORL",
+          "tn": "Magic",
+          "tc": "Orlando",
+          "s": ""
+        },
+        "gdtutc": "2019-11-16",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900181",
+        "gcode": "20191116/PORSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-16",
+        "htm": "2019-11-16T19:30:00",
+        "vtm": "2019-11-16T17:30:00",
+        "etm": "2019-11-16T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F7579213?brand=spurs&extcmp=gw503665&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "NBC Sports Northwest",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "Rip City Radio 620",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612757,
+          "re": "0-0",
+          "ta": "POR",
+          "tn": "Trail Blazers",
+          "tc": "Portland",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-11-17",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900194",
+        "gcode": "20191118/SASDAL",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-18",
+        "htm": "2019-11-18T19:30:00",
+        "vtm": "2019-11-18T19:30:00",
+        "etm": "2019-11-18T20:30:00",
+        "an": "American Airlines Center",
+        "link": "na",
+        "ac": "Dallas",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - Dallas",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "KENS",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "ESPN 103.3 FM / 1270 AM (ESP)",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612742,
+          "re": "0-0",
+          "ta": "DAL",
+          "tn": "Mavericks",
+          "tc": "Dallas",
+          "s": ""
+        },
+        "gdtutc": "2019-11-19",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900203",
+        "gcode": "20191120/SASWAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-20",
+        "htm": "2019-11-20T19:00:00",
+        "vtm": "2019-11-20T18:00:00",
+        "etm": "2019-11-20T19:00:00",
+        "an": "Capital One Arena",
+        "link": "na",
+        "ac": "Washington",
+        "as": "DC",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "1500 AM",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612764,
+          "re": "0-0",
+          "ta": "WAS",
+          "tn": "Wizards",
+          "tc": "Washington",
+          "s": ""
+        },
+        "gdtutc": "2019-11-21",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900218",
+        "gcode": "20191122/SASPHI",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-22",
+        "htm": "2019-11-22T20:00:00",
+        "vtm": "2019-11-22T19:00:00",
+        "etm": "2019-11-22T20:00:00",
+        "an": "Wells Fargo Center",
+        "link": "na",
+        "ac": "Philadelphia",
+        "as": "PA",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "ESPN",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "NBC Sports Philadelphia",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 4,
+              "disp": "97.5 The Fanatic",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612755,
+          "re": "0-0",
+          "ta": "PHI",
+          "tn": "76ers",
+          "tc": "Philadelphia",
+          "s": ""
+        },
+        "gdtutc": "2019-11-23",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900229",
+        "gcode": "20191123/SASNYK",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-23",
+        "htm": "2019-11-23T19:30:00",
+        "vtm": "2019-11-23T18:30:00",
+        "etm": "2019-11-23T19:30:00",
+        "an": "Madison Square Garden",
+        "link": "na",
+        "ac": "New York",
+        "as": "NY",
+        "st": "1",
+        "stt": "7:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "MSG",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "ESPN NY 98.7",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612752,
+          "re": "0-0",
+          "ta": "NYK",
+          "tn": "Knicks",
+          "tc": "New York",
+          "s": ""
+        },
+        "gdtutc": "2019-11-24",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900249",
+        "gcode": "20191125/LALSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-25",
+        "htm": "2019-11-25T19:30:00",
+        "vtm": "2019-11-25T17:30:00",
+        "etm": "2019-11-25T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F75A9216?brand=spurs&extcmp=gw503666&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Spectrum SportsNet",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612747,
+          "re": "0-0",
+          "ta": "LAL",
+          "tn": "Lakers",
+          "tc": "Los Angeles",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-11-26",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900262",
+        "gcode": "20191127/MINSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-27",
+        "htm": "2019-11-27T19:30:00",
+        "vtm": "2019-11-27T19:30:00",
+        "etm": "2019-11-27T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F75E9218?brand=spurs&extcmp=gw503667&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports North",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "830 WCCO",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612750,
+          "re": "0-0",
+          "ta": "MIN",
+          "tn": "Timberwolves",
+          "tc": "Minnesota",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-11-28",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900276",
+        "gcode": "20191129/LACSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-11-29",
+        "htm": "2019-11-29T19:30:00",
+        "vtm": "2019-11-29T17:30:00",
+        "etm": "2019-11-29T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F761921A?brand=spurs&extcmp=gw503668&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Prime Ticket",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "AM 570 LA Sports",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612746,
+          "re": "0-0",
+          "ta": "LAC",
+          "tn": "Clippers",
+          "tc": "LA",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-11-30",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900288",
+        "gcode": "20191201/SASDET",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-01",
+        "htm": "2019-12-01T17:00:00",
+        "vtm": "2019-12-01T16:00:00",
+        "etm": "2019-12-01T17:00:00",
+        "an": "Little Caesars Arena",
+        "link": "na",
+        "ac": "Detroit",
+        "as": "MI",
+        "st": "1",
+        "stt": "5:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Detroit",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "97.1 FM The Ticket",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612765,
+          "re": "0-0",
+          "ta": "DET",
+          "tn": "Pistons",
+          "tc": "Detroit",
+          "s": ""
+        },
+        "gdtutc": "2019-12-01",
+        "utctm": "22:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900303",
+        "gcode": "20191203/HOUSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-03",
+        "htm": "2019-12-03T19:30:00",
+        "vtm": "2019-12-03T19:30:00",
+        "etm": "2019-12-03T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F765921C?brand=spurs&extcmp=gw503669&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "AT&T Sportsnet - Southwest",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "790 KBME & 740 KTRH / 850 KEYH & 101.7 F",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612745,
+          "re": "0-0",
+          "ta": "HOU",
+          "tn": "Rockets",
+          "tc": "Houston",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-12-04",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900328",
+        "gcode": "20191206/SACSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-06",
+        "htm": "2019-12-06T19:30:00",
+        "vtm": "2019-12-06T17:30:00",
+        "etm": "2019-12-06T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F769921E?brand=spurs&extcmp=gw503670&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "NBC Sports California",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612758,
+          "re": "0-0",
+          "ta": "SAC",
+          "tn": "Kings",
+          "tc": "Sacramento",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-12-07",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900368",
+        "gcode": "20191212/CLESAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-12",
+        "htm": "2019-12-12T19:30:00",
+        "vtm": "2019-12-12T20:30:00",
+        "etm": "2019-12-12T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F7709223?brand=spurs&extcmp=gw503671&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Ohio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612739,
+          "re": "0-0",
+          "ta": "CLE",
+          "tn": "Cavaliers",
+          "tc": "Cleveland",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-12-13",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900380",
+        "gcode": "20191214/SASPHX",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-14",
+        "htm": "2019-12-14T15:00:00",
+        "vtm": "2019-12-14T16:00:00",
+        "etm": "2019-12-14T17:00:00",
+        "an": "Arena Ciudad de Mexico",
+        "link": "na",
+        "ac": "Mexico City, Mexico",
+        "as": "",
+        "st": "1",
+        "stt": "5:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBA TV",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Arizona",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612756,
+          "re": "0-0",
+          "ta": "PHX",
+          "tn": "Suns",
+          "tc": "Phoenix",
+          "s": ""
+        },
+        "gdtutc": "2019-12-14",
+        "utctm": "22:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900396",
+        "gcode": "20191216/SASHOU",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-16",
+        "htm": "2019-12-16T19:00:00",
+        "vtm": "2019-12-16T19:00:00",
+        "etm": "2019-12-16T20:00:00",
+        "an": "Toyota Center",
+        "link": "na",
+        "ac": "Houston",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "AT&T Sportsnet - Southwest",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "KENS",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "790 KBME & 740 KTRH / 850 KEYH & 101.7 F",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612745,
+          "re": "0-0",
+          "ta": "HOU",
+          "tn": "Rockets",
+          "tc": "Houston",
+          "s": ""
+        },
+        "gdtutc": "2019-12-17",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900418",
+        "gcode": "20191219/BKNSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-19",
+        "htm": "2019-12-19T19:30:00",
+        "vtm": "2019-12-19T20:30:00",
+        "etm": "2019-12-19T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F7749226?brand=spurs&extcmp=gw503672&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "CW35",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "YES",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WFAN",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612751,
+          "re": "0-0",
+          "ta": "BKN",
+          "tn": "Nets",
+          "tc": "Brooklyn",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-12-20",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900436",
+        "gcode": "20191221/LACSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-21",
+        "htm": "2019-12-21T19:30:00",
+        "vtm": "2019-12-21T17:30:00",
+        "etm": "2019-12-21T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F7789228?brand=spurs&extcmp=gw503673&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "CW35",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Prime Ticket",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "AM 570 LA Sports",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612746,
+          "re": "0-0",
+          "ta": "LAC",
+          "tn": "Clippers",
+          "tc": "LA",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-12-22",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900450",
+        "gcode": "20191223/SASMEM",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-23",
+        "htm": "2019-12-23T19:00:00",
+        "vtm": "2019-12-23T19:00:00",
+        "etm": "2019-12-23T20:00:00",
+        "an": "FedExForum",
+        "link": "na",
+        "ac": "Memphis",
+        "as": "TN",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southeast - Memphis",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "ESPN Radio 92.9FM / 680AM",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612763,
+          "re": "0-0",
+          "ta": "MEM",
+          "tn": "Grizzlies",
+          "tc": "Memphis",
+          "s": ""
+        },
+        "gdtutc": "2019-12-24",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900463",
+        "gcode": "20191226/SASDAL",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-26",
+        "htm": "2019-12-26T19:30:00",
+        "vtm": "2019-12-26T19:30:00",
+        "etm": "2019-12-26T20:30:00",
+        "an": "American Airlines Center",
+        "link": "na",
+        "ac": "Dallas",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - Dallas",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "ESPN 103.3 FM / 1270 AM (ESP)",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612742,
+          "re": "0-0",
+          "ta": "DAL",
+          "tn": "Mavericks",
+          "tc": "Dallas",
+          "s": ""
+        },
+        "gdtutc": "2019-12-27",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900481",
+        "gcode": "20191228/DETSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-28",
+        "htm": "2019-12-28T19:30:00",
+        "vtm": "2019-12-28T20:30:00",
+        "etm": "2019-12-28T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F77C922A?brand=spurs&extcmp=gw503674&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Detroit",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "950 AM",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612765,
+          "re": "0-0",
+          "ta": "DET",
+          "tn": "Pistons",
+          "tc": "Detroit",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2019-12-29",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900502",
+        "gcode": "20191231/GSWSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2019-12-31",
+        "htm": "2019-12-31T18:00:00",
+        "vtm": "2019-12-31T16:00:00",
+        "etm": "2019-12-31T19:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F780922C?brand=spurs&extcmp=gw503675&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "NBC Sports Bay Area",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612744,
+          "re": "0-0",
+          "ta": "GSW",
+          "tn": "Warriors",
+          "tc": "Golden State",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-01-01",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900514",
+        "gcode": "20200102/OKCSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-02",
+        "htm": "2020-01-02T19:30:00",
+        "vtm": "2020-01-02T19:30:00",
+        "etm": "2020-01-02T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F6EC91C4?brand=spurs&extcmp=gw503676&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Oklahoma",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WWLS 98.1FM OKC",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612760,
+          "re": "0-0",
+          "ta": "OKC",
+          "tn": "Thunder",
+          "tc": "Oklahoma City",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-01-03",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900531",
+        "gcode": "20200104/SASMIL",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-04",
+        "htm": "2020-01-04T19:30:00",
+        "vtm": "2020-01-04T19:30:00",
+        "etm": "2020-01-04T20:30:00",
+        "an": "Fiserv Forum",
+        "link": "na",
+        "ac": "Milwaukee",
+        "as": "WI",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Wisconsin",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "KENS",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "620 AM/103.3 FM WTMJ",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612749,
+          "re": "0-0",
+          "ta": "MIL",
+          "tn": "Bucks",
+          "tc": "Milwaukee",
+          "s": ""
+        },
+        "gdtutc": "2020-01-05",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900546",
+        "gcode": "20200106/MILSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-06",
+        "htm": "2020-01-06T19:30:00",
+        "vtm": "2020-01-06T19:30:00",
+        "etm": "2020-01-06T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F6F391C7?brand=spurs&extcmp=gw503677&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Wisconsin",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "620 AM/103.3 FM WTMJ",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612749,
+          "re": "0-0",
+          "ta": "MIL",
+          "tn": "Bucks",
+          "tc": "Milwaukee",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-01-07",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900554",
+        "gcode": "20200108/SASBOS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-08",
+        "htm": "2020-01-08T19:00:00",
+        "vtm": "2020-01-08T18:00:00",
+        "etm": "2020-01-08T19:00:00",
+        "an": "TD Garden",
+        "link": "na",
+        "ac": "Boston",
+        "as": "MA",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612738,
+          "re": "0-0",
+          "ta": "BOS",
+          "tn": "Celtics",
+          "tc": "Boston",
+          "s": ""
+        },
+        "gdtutc": "2020-01-09",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900571",
+        "gcode": "20200110/SASMEM",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-10",
+        "htm": "2020-01-10T19:00:00",
+        "vtm": "2020-01-10T19:00:00",
+        "etm": "2020-01-10T20:00:00",
+        "an": "FedExForum",
+        "link": "na",
+        "ac": "Memphis",
+        "as": "TN",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southeast - Memphis",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "ESPN Radio 92.9FM / 680AM",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612763,
+          "re": "0-0",
+          "ta": "MEM",
+          "tn": "Grizzlies",
+          "tc": "Memphis",
+          "s": ""
+        },
+        "gdtutc": "2020-01-11",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900587",
+        "gcode": "20200112/SASTOR",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-12",
+        "htm": "2020-01-12T18:00:00",
+        "vtm": "2020-01-12T17:00:00",
+        "etm": "2020-01-12T18:00:00",
+        "an": "Scotiabank Arena",
+        "link": "na",
+        "ac": "Toronto",
+        "as": "ON",
+        "st": "1",
+        "stt": "6:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "SN",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "SN",
+              "scope": "can",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612761,
+          "re": "0-0",
+          "ta": "TOR",
+          "tn": "Raptors",
+          "tc": "Toronto",
+          "s": ""
+        },
+        "gdtutc": "2020-01-12",
+        "utctm": "23:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900606",
+        "gcode": "20200115/SASMIA",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-15",
+        "htm": "2020-01-15T19:30:00",
+        "vtm": "2020-01-15T18:30:00",
+        "etm": "2020-01-15T19:30:00",
+        "an": "AmericanAirlines Arena",
+        "link": "na",
+        "ac": "Miami",
+        "as": "FL",
+        "st": "1",
+        "stt": "7:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Sun",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WAXY 790 AM / S: WAQI 710 AM",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612748,
+          "re": "0-0",
+          "ta": "MIA",
+          "tn": "Heat",
+          "tc": "Miami",
+          "s": ""
+        },
+        "gdtutc": "2020-01-16",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900624",
+        "gcode": "20200117/ATLSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-17",
+        "htm": "2020-01-17T19:30:00",
+        "vtm": "2020-01-17T20:30:00",
+        "etm": "2020-01-17T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F6F791C9?brand=spurs&extcmp=gw503678&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southeast - Atlanta",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WZGC 92.9 FM The Game",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612737,
+          "re": "0-0",
+          "ta": "ATL",
+          "tn": "Hawks",
+          "tc": "Atlanta",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-01-18",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900637",
+        "gcode": "20200119/MIASAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-19",
+        "htm": "2020-01-19T14:00:00",
+        "vtm": "2020-01-19T15:00:00",
+        "etm": "2020-01-19T15:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F6FA91CB?brand=spurs&extcmp=gw503679&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "3:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Sun",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WAXY 790 AM / S: WAQI 710 AM",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612748,
+          "re": "0-0",
+          "ta": "MIA",
+          "tn": "Heat",
+          "tc": "Miami",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-01-19",
+        "utctm": "20:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900650",
+        "gcode": "20200120/SASPHX",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-20",
+        "htm": "2020-01-20T19:00:00",
+        "vtm": "2020-01-20T20:00:00",
+        "etm": "2020-01-20T21:00:00",
+        "an": "Talking Stick Resort Arena",
+        "link": "na",
+        "ac": "Phoenix",
+        "as": "AZ",
+        "st": "1",
+        "stt": "9:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Arizona",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612756,
+          "re": "0-0",
+          "ta": "PHX",
+          "tn": "Suns",
+          "tc": "Phoenix",
+          "s": ""
+        },
+        "gdtutc": "2020-01-21",
+        "utctm": "02:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900663",
+        "gcode": "20200122/SASNOP",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-22",
+        "htm": "2020-01-22T19:00:00",
+        "vtm": "2020-01-22T19:00:00",
+        "etm": "2020-01-22T20:00:00",
+        "an": "Smoothie King Center",
+        "link": "na",
+        "ac": "New Orleans",
+        "as": "LA",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports New Orleans",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612740,
+          "re": "0-0",
+          "ta": "NOP",
+          "tn": "Pelicans",
+          "tc": "New Orleans",
+          "s": ""
+        },
+        "gdtutc": "2020-01-23",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900678",
+        "gcode": "20200124/PHXSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-24",
+        "htm": "2020-01-24T19:30:00",
+        "vtm": "2020-01-24T18:30:00",
+        "etm": "2020-01-24T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F6FE91CE?brand=spurs&extcmp=gw503680&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Arizona",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612756,
+          "re": "0-0",
+          "ta": "PHX",
+          "tn": "Suns",
+          "tc": "Phoenix",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-01-25",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900686",
+        "gcode": "20200126/TORSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-26",
+        "htm": "2020-01-26T15:00:00",
+        "vtm": "2020-01-26T16:00:00",
+        "etm": "2020-01-26T16:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F70191D0?brand=spurs&extcmp=gw503681&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "4:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "SN",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "SN",
+              "scope": "can",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612761,
+          "re": "0-0",
+          "ta": "TOR",
+          "tn": "Raptors",
+          "tc": "Toronto",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-01-26",
+        "utctm": "21:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900695",
+        "gcode": "20200127/SASCHI",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-27",
+        "htm": "2020-01-27T19:00:00",
+        "vtm": "2020-01-27T19:00:00",
+        "etm": "2020-01-27T20:00:00",
+        "an": "United Center",
+        "link": "na",
+        "ac": "Chicago",
+        "as": "IL",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBC Sports Chicago",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WSCR-AM 670 / UNIVISION CHICAGO 1200 AM",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612741,
+          "re": "0-0",
+          "ta": "CHI",
+          "tn": "Bulls",
+          "tc": "Chicago",
+          "s": ""
+        },
+        "gdtutc": "2020-01-28",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900711",
+        "gcode": "20200129/UTASAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-01-29",
+        "htm": "2020-01-29T19:30:00",
+        "vtm": "2020-01-29T18:30:00",
+        "etm": "2020-01-29T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F70591D5?brand=spurs&extcmp=gw503682&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "AT&T Sportsnet - Rocky Mountain",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612762,
+          "re": "0-0",
+          "ta": "UTA",
+          "tn": "Jazz",
+          "tc": "Utah",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-01-30",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900734",
+        "gcode": "20200201/CHASAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-01",
+        "htm": "2020-02-01T20:00:00",
+        "vtm": "2020-02-01T21:00:00",
+        "etm": "2020-02-01T21:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F70891D7?brand=spurs&extcmp=gw503683&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "9:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612766,
+          "re": "0-0",
+          "ta": "CHA",
+          "tn": "Hornets",
+          "tc": "Charlotte",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-02-02",
+        "utctm": "02:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900750",
+        "gcode": "20200203/SASLAC",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-03",
+        "htm": "2020-02-03T19:30:00",
+        "vtm": "2020-02-03T21:30:00",
+        "etm": "2020-02-03T22:30:00",
+        "an": "Staples Center",
+        "link": "na",
+        "ac": "Los Angeles",
+        "as": "CA",
+        "st": "1",
+        "stt": "10:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBA TV",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Prime Ticket",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 4,
+              "disp": "AM 570 LA Sports",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612746,
+          "re": "0-0",
+          "ta": "LAC",
+          "tn": "Clippers",
+          "tc": "LA",
+          "s": ""
+        },
+        "gdtutc": "2020-02-04",
+        "utctm": "03:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900754",
+        "gcode": "20200204/SASLAL",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-04",
+        "htm": "2020-02-04T19:30:00",
+        "vtm": "2020-02-04T21:30:00",
+        "etm": "2020-02-04T22:30:00",
+        "an": "Staples Center",
+        "link": "na",
+        "ac": "Los Angeles",
+        "as": "CA",
+        "st": "1",
+        "stt": "10:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Spectrum SportsNet",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612747,
+          "re": "0-0",
+          "ta": "LAL",
+          "tn": "Lakers",
+          "tc": "Los Angeles",
+          "s": ""
+        },
+        "gdtutc": "2020-02-05",
+        "utctm": "03:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900767",
+        "gcode": "20200206/SASPOR",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-06",
+        "htm": "2020-02-06T19:00:00",
+        "vtm": "2020-02-06T21:00:00",
+        "etm": "2020-02-06T22:00:00",
+        "an": "Moda Center",
+        "link": "na",
+        "ac": "Portland",
+        "as": "OR",
+        "st": "1",
+        "stt": "10:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBC Sports Northwest",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "Rip City Radio 620",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612757,
+          "re": "0-0",
+          "ta": "POR",
+          "tn": "Trail Blazers",
+          "tc": "Portland",
+          "s": ""
+        },
+        "gdtutc": "2020-02-07",
+        "utctm": "03:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900785",
+        "gcode": "20200208/SASSAC",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-08",
+        "htm": "2020-02-08T19:00:00",
+        "vtm": "2020-02-08T21:00:00",
+        "etm": "2020-02-08T22:00:00",
+        "an": "Golden 1 Center",
+        "link": "na",
+        "ac": "Sacramento",
+        "as": "CA",
+        "st": "1",
+        "stt": "10:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBC Sports California",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "CW35",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612758,
+          "re": "0-0",
+          "ta": "SAC",
+          "tn": "Kings",
+          "tc": "Sacramento",
+          "s": ""
+        },
+        "gdtutc": "2020-02-09",
+        "utctm": "03:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900799",
+        "gcode": "20200210/SASDEN",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-10",
+        "htm": "2020-02-10T19:00:00",
+        "vtm": "2020-02-10T20:00:00",
+        "etm": "2020-02-10T21:00:00",
+        "an": "Pepsi Center",
+        "link": "na",
+        "ac": "Denver",
+        "as": "CO",
+        "st": "1",
+        "stt": "9:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Altitude",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612743,
+          "re": "0-0",
+          "ta": "DEN",
+          "tn": "Nuggets",
+          "tc": "Denver",
+          "s": ""
+        },
+        "gdtutc": "2020-02-11",
+        "utctm": "02:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900805",
+        "gcode": "20200211/SASOKC",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-11",
+        "htm": "2020-02-11T19:00:00",
+        "vtm": "2020-02-11T19:00:00",
+        "etm": "2020-02-11T20:00:00",
+        "an": "Chesapeake Energy Arena",
+        "link": "na",
+        "ac": "Oklahoma City",
+        "as": "OK",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Oklahoma",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WWLS 98.1FM OKC / 930AM (ESP)",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612760,
+          "re": "0-0",
+          "ta": "OKC",
+          "tn": "Thunder",
+          "tc": "Oklahoma City",
+          "s": ""
+        },
+        "gdtutc": "2020-02-12",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900832",
+        "gcode": "20200221/SASUTA",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-21",
+        "htm": "2020-02-21T19:00:00",
+        "vtm": "2020-02-21T20:00:00",
+        "etm": "2020-02-21T21:00:00",
+        "an": "Vivint Smart Home Arena",
+        "link": "na",
+        "ac": "Salt Lake City",
+        "as": "UT",
+        "st": "1",
+        "stt": "9:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "AT&T Sportsnet - Rocky Mountain",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612762,
+          "re": "0-0",
+          "ta": "UTA",
+          "tn": "Jazz",
+          "tc": "Utah",
+          "s": ""
+        },
+        "gdtutc": "2020-02-22",
+        "utctm": "02:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900846",
+        "gcode": "20200223/SASOKC",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-23",
+        "htm": "2020-02-23T18:00:00",
+        "vtm": "2020-02-23T18:00:00",
+        "etm": "2020-02-23T19:00:00",
+        "an": "Chesapeake Energy Arena",
+        "link": "na",
+        "ac": "Oklahoma City",
+        "as": "OK",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Oklahoma",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WWLS 98.1FM OKC / 930AM (ESP)",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612760,
+          "re": "0-0",
+          "ta": "OKC",
+          "tn": "Thunder",
+          "tc": "Oklahoma City",
+          "s": ""
+        },
+        "gdtutc": "2020-02-24",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900869",
+        "gcode": "20200226/DALSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-26",
+        "htm": "2020-02-26T18:30:00",
+        "vtm": "2020-02-26T18:30:00",
+        "etm": "2020-02-26T19:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F70C91DA?brand=spurs&extcmp=gw503684&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "7:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "ESPN",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "CW35",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "Fox Sports Southwest - Dallas",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 4,
+              "disp": "ESPN 103.3 FM / 1270 AM (ESP)",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612742,
+          "re": "0-0",
+          "ta": "DAL",
+          "tn": "Mavericks",
+          "tc": "Dallas",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-02-27",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900893",
+        "gcode": "20200229/ORLSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-02-29",
+        "htm": "2020-02-29T19:30:00",
+        "vtm": "2020-02-29T20:30:00",
+        "etm": "2020-02-29T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F70F91DC?brand=spurs&extcmp=gw503685&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Florida",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "96.9 FM THE GAME / 98.1 SALSA Y MAS",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612753,
+          "re": "0-0",
+          "ta": "ORL",
+          "tn": "Magic",
+          "tc": "Orlando",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-03-01",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900908",
+        "gcode": "20200302/INDSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-02",
+        "htm": "2020-03-02T19:30:00",
+        "vtm": "2020-03-02T20:30:00",
+        "etm": "2020-03-02T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F71391E0?brand=spurs&extcmp=gw503686&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Indiana",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "1070 The Fan/107.5 FM",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612754,
+          "re": "0-0",
+          "ta": "IND",
+          "tn": "Pacers",
+          "tc": "Indiana",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-03-03",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900909",
+        "gcode": "20200303/SASCHA",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-03",
+        "htm": "2020-03-03T19:00:00",
+        "vtm": "2020-03-03T18:00:00",
+        "etm": "2020-03-03T19:00:00",
+        "an": "Spectrum Center",
+        "link": "na",
+        "ac": "Charlotte",
+        "as": "NC",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612766,
+          "re": "0-0",
+          "ta": "CHA",
+          "tn": "Hornets",
+          "tc": "Charlotte",
+          "s": ""
+        },
+        "gdtutc": "2020-03-04",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900931",
+        "gcode": "20200306/SASBKN",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-06",
+        "htm": "2020-03-06T19:30:00",
+        "vtm": "2020-03-06T18:30:00",
+        "etm": "2020-03-06T19:30:00",
+        "an": "Barclays Center",
+        "link": "na",
+        "ac": "Brooklyn",
+        "as": "NY",
+        "st": "1",
+        "stt": "7:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "YES",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WFAN",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612751,
+          "re": "0-0",
+          "ta": "BKN",
+          "tn": "Nets",
+          "tc": "Brooklyn",
+          "s": ""
+        },
+        "gdtutc": "2020-03-07",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900954",
+        "gcode": "20200308/SASCLE",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-08",
+        "htm": "2020-03-08T19:30:00",
+        "vtm": "2020-03-08T18:30:00",
+        "etm": "2020-03-08T19:30:00",
+        "an": "Rocket Mortgage FieldHouse",
+        "link": "na",
+        "ac": "Cleveland",
+        "as": "OH",
+        "st": "1",
+        "stt": "7:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Ohio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WTAM 1100 / 100.7 WMMS / 87.7 FM (ESP)",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612739,
+          "re": "0-0",
+          "ta": "CLE",
+          "tn": "Cavaliers",
+          "tc": "Cleveland",
+          "s": ""
+        },
+        "gdtutc": "2020-03-08",
+        "utctm": "23:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900965",
+        "gcode": "20200310/DALSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-10",
+        "htm": "2020-03-10T19:00:00",
+        "vtm": "2020-03-10T19:00:00",
+        "etm": "2020-03-10T20:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F71791E2?brand=spurs&extcmp=gw503687&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "TNT",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "ESPN 103.3 FM / 1270 AM (ESP)",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612742,
+          "re": "0-0",
+          "ta": "DAL",
+          "tn": "Mavericks",
+          "tc": "Dallas",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-03-11",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900984",
+        "gcode": "20200313/DENSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-13",
+        "htm": "2020-03-13T19:30:00",
+        "vtm": "2020-03-13T18:30:00",
+        "etm": "2020-03-13T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F71A91E4?brand=spurs&extcmp=gw503688&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Altitude",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612743,
+          "re": "0-0",
+          "ta": "DEN",
+          "tn": "Nuggets",
+          "tc": "Denver",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-03-14",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021900993",
+        "gcode": "20200314/MINSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-14",
+        "htm": "2020-03-14T19:30:00",
+        "vtm": "2020-03-14T19:30:00",
+        "etm": "2020-03-14T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F71E91E8?brand=spurs&extcmp=gw503689&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports North",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "830 WCCO",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612750,
+          "re": "0-0",
+          "ta": "MIN",
+          "tn": "Timberwolves",
+          "tc": "Minnesota",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-03-15",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901006",
+        "gcode": "20200316/MEMSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-16",
+        "htm": "2020-03-16T19:30:00",
+        "vtm": "2020-03-16T19:30:00",
+        "etm": "2020-03-16T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F72291EA?brand=spurs&extcmp=gw503690&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southeast - Memphis",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "ESPN Radio 92.9FM / 680AM",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612763,
+          "re": "0-0",
+          "ta": "MEM",
+          "tn": "Grizzlies",
+          "tc": "Memphis",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-03-17",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901021",
+        "gcode": "20200318/SASNOP",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-18",
+        "htm": "2020-03-18T19:00:00",
+        "vtm": "2020-03-18T19:00:00",
+        "etm": "2020-03-18T20:00:00",
+        "an": "Smoothie King Center",
+        "link": "na",
+        "ac": "New Orleans",
+        "as": "LA",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports New Orleans",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612740,
+          "re": "0-0",
+          "ta": "NOP",
+          "tn": "Pelicans",
+          "tc": "New Orleans",
+          "s": ""
+        },
+        "gdtutc": "2020-03-19",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901035",
+        "gcode": "20200320/CHISAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-20",
+        "htm": "2020-03-20T19:30:00",
+        "vtm": "2020-03-20T19:30:00",
+        "etm": "2020-03-20T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F76D9220?brand=spurs&extcmp=gw503691&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "NBC Sports Chicago",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "WSCR-AM 670",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612741,
+          "re": "0-0",
+          "ta": "CHI",
+          "tn": "Bulls",
+          "tc": "Chicago",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-03-21",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901052",
+        "gcode": "20200322/UTASAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-22",
+        "htm": "2020-03-22T18:00:00",
+        "vtm": "2020-03-22T17:00:00",
+        "etm": "2020-03-22T19:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F72691ED?brand=spurs&extcmp=gw503692&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBA TV",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "AT&T Sportsnet - Rocky Mountain",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612762,
+          "re": "0-0",
+          "ta": "UTA",
+          "tn": "Jazz",
+          "tc": "Utah",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-03-22",
+        "utctm": "23:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901066",
+        "gcode": "20200324/SASUTA",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-24",
+        "htm": "2020-03-24T20:00:00",
+        "vtm": "2020-03-24T21:00:00",
+        "etm": "2020-03-24T22:00:00",
+        "an": "Vivint Smart Home Arena",
+        "link": "na",
+        "ac": "Salt Lake City",
+        "as": "UT",
+        "st": "1",
+        "stt": "10:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "TNT",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612762,
+          "re": "0-0",
+          "ta": "UTA",
+          "tn": "Jazz",
+          "tc": "Utah",
+          "s": ""
+        },
+        "gdtutc": "2020-03-25",
+        "utctm": "02:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901078",
+        "gcode": "20200326/SASMIN",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-26",
+        "htm": "2020-03-26T19:00:00",
+        "vtm": "2020-03-26T19:00:00",
+        "etm": "2020-03-26T20:00:00",
+        "an": "Target Center",
+        "link": "na",
+        "ac": "Minneapolis",
+        "as": "MN",
+        "st": "1",
+        "stt": "8:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports North",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "CW35",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "830 WCCO",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612750,
+          "re": "0-0",
+          "ta": "MIN",
+          "tn": "Timberwolves",
+          "tc": "Minnesota",
+          "s": ""
+        },
+        "gdtutc": "2020-03-27",
+        "utctm": "00:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901089",
+        "gcode": "20200327/SASDEN",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-27",
+        "htm": "2020-03-27T19:00:00",
+        "vtm": "2020-03-27T20:00:00",
+        "etm": "2020-03-27T21:00:00",
+        "an": "Pepsi Center",
+        "link": "na",
+        "ac": "Denver",
+        "as": "CO",
+        "st": "1",
+        "stt": "9:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Altitude 2",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "CW35",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612743,
+          "re": "0-0",
+          "ta": "DEN",
+          "tn": "Nuggets",
+          "tc": "Denver",
+          "s": ""
+        },
+        "gdtutc": "2020-03-28",
+        "utctm": "01:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901103",
+        "gcode": "20200329/SASGSW",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-29",
+        "htm": "2020-03-29T17:30:00",
+        "vtm": "2020-03-29T19:30:00",
+        "etm": "2020-03-29T20:30:00",
+        "an": "Chase Center",
+        "link": "na",
+        "ac": "San Francisco",
+        "as": "CA",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBA TV",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "NBC Sports Bay Area",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612744,
+          "re": "0-0",
+          "ta": "GSW",
+          "tn": "Warriors",
+          "tc": "Golden State",
+          "s": ""
+        },
+        "gdtutc": "2020-03-30",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901116",
+        "gcode": "20200331/SASSAC",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-03-31",
+        "htm": "2020-03-31T19:00:00",
+        "vtm": "2020-03-31T21:00:00",
+        "etm": "2020-03-31T22:00:00",
+        "an": "Golden 1 Center",
+        "link": "na",
+        "ac": "Sacramento",
+        "as": "CA",
+        "st": "1",
+        "stt": "10:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBC Sports California",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612758,
+          "re": "0-0",
+          "ta": "SAC",
+          "tn": "Kings",
+          "tc": "Sacramento",
+          "s": ""
+        },
+        "gdtutc": "2020-04-01",
+        "utctm": "02:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901138",
+        "gcode": "20200403/GSWSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-04-03",
+        "htm": "2020-04-03T19:30:00",
+        "vtm": "2020-04-03T17:30:00",
+        "etm": "2020-04-03T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F72991EF?brand=spurs&extcmp=gw503693&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBA TV",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "KENS",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "NBC Sports Bay Area",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612744,
+          "re": "0-0",
+          "ta": "GSW",
+          "tn": "Warriors",
+          "tc": "Golden State",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-04-04",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901153",
+        "gcode": "20200405/NOPSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-04-05",
+        "htm": "2020-04-05T18:00:00",
+        "vtm": "2020-04-05T18:00:00",
+        "etm": "2020-04-05T19:00:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F72D91F1?brand=spurs&extcmp=gw503694&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports New Orleans",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612740,
+          "re": "0-0",
+          "ta": "NOP",
+          "tn": "Pelicans",
+          "tc": "New Orleans",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-04-05",
+        "utctm": "23:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901165",
+        "gcode": "20200407/SACSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-04-07",
+        "htm": "2020-04-07T19:30:00",
+        "vtm": "2020-04-07T17:30:00",
+        "etm": "2020-04-07T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F73091F6?brand=spurs&extcmp=gw503695&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "NBC Sports California",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612758,
+          "re": "0-0",
+          "ta": "SAC",
+          "tn": "Kings",
+          "tc": "Sacramento",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-04-08",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901173",
+        "gcode": "20200408/SASHOU",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-04-08",
+        "htm": "2020-04-08T20:30:00",
+        "vtm": "2020-04-08T20:30:00",
+        "etm": "2020-04-08T21:30:00",
+        "an": "Toyota Center",
+        "link": "na",
+        "ac": "Houston",
+        "as": "TX",
+        "st": "1",
+        "stt": "9:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "ESPN",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "AT&T Sportsnet - Southwest",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "KENS",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 4,
+              "disp": "790 KBME & 740 KTRH / 850 KEYH & 101.7 F",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612745,
+          "re": "0-0",
+          "ta": "HOU",
+          "tn": "Rockets",
+          "tc": "Houston",
+          "s": ""
+        },
+        "gdtutc": "2020-04-09",
+        "utctm": "01:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901186",
+        "gcode": "20200410/PHISAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-04-10",
+        "htm": "2020-04-10T19:30:00",
+        "vtm": "2020-04-10T20:30:00",
+        "etm": "2020-04-10T20:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F73491F8?brand=spurs&extcmp=gw503696&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "8:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBA TV",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "NBC Sports Philadelphia",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 4,
+              "disp": "97.5 The Fanatic",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612755,
+          "re": "0-0",
+          "ta": "PHI",
+          "tn": "76ers",
+          "tc": "Philadelphia",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-04-11",
+        "utctm": "00:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901198",
+        "gcode": "20200412/HOUSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-04-12",
+        "htm": "2020-04-12T14:30:00",
+        "vtm": "2020-04-12T14:30:00",
+        "etm": "2020-04-12T15:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F73791FA?brand=spurs&extcmp=gw503697&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "3:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "NBA TV",
+              "scope": "natl",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "AT&T Sportsnet - Southwest",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 4,
+              "disp": "790 KBME & 740 KTRH / 850 KEYH & 101.7 F",
+              "scope": "away",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612745,
+          "re": "0-0",
+          "ta": "HOU",
+          "tn": "Rockets",
+          "tc": "Houston",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-04-12",
+        "utctm": "19:30",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901205",
+        "gcode": "20200413/SASIND",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-04-13",
+        "htm": "2020-04-13T19:00:00",
+        "vtm": "2020-04-13T18:00:00",
+        "etm": "2020-04-13T19:00:00",
+        "an": "Bankers Life Fieldhouse",
+        "link": "na",
+        "ac": "Indianapolis",
+        "as": "IN",
+        "st": "1",
+        "stt": "7:00 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Indiana",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 3,
+              "disp": "1070 The Fan/107.5 FM",
+              "scope": "home",
+              "type": "radio",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612754,
+          "re": "0-0",
+          "ta": "IND",
+          "tn": "Pacers",
+          "tc": "Indiana",
+          "s": ""
+        },
+        "gdtutc": "2020-04-13",
+        "utctm": "23:00",
+        "ppdst": "I"
+      },
+      {
+        "gid": "0021901227",
+        "gcode": "20200415/NOPSAS",
+        "seri": "",
+        "is": 1,
+        "gdte": "2020-04-15",
+        "htm": "2020-04-15T18:30:00",
+        "vtm": "2020-04-15T18:30:00",
+        "etm": "2020-04-15T19:30:00",
+        "an": "AT&T Center",
+        "link": "https://www.ticketmaster.com/event/3A005706F73B91FD?brand=spurs&extcmp=gw503698&wt.mc_id=NBA_TEAM_SAN_SCHED_PG_PRI&utm_source=NBA.com&utm_medium=client&utm_campaign=NBA_TEAM_SAN&utm_content=SCHED_PG_PRI",
+        "ac": "San Antonio",
+        "as": "TX",
+        "st": "1",
+        "stt": "7:30 pm ET",
+        "bd": {
+          "b": [
+            {
+              "seq": 1,
+              "disp": "Fox Sports Southwest - San Antonio",
+              "scope": "home",
+              "type": "tv",
+              "lan": "English"
+            },
+            {
+              "seq": 2,
+              "disp": "Fox Sports New Orleans",
+              "scope": "away",
+              "type": "tv",
+              "lan": "English"
+            }
+          ]
+        },
+        "v": {
+          "tid": 1610612740,
+          "re": "0-0",
+          "ta": "NOP",
+          "tn": "Pelicans",
+          "tc": "New Orleans",
+          "s": ""
+        },
+        "h": {
+          "tid": 1610612759,
+          "re": "0-0",
+          "ta": "SAS",
+          "tn": "Spurs",
+          "tc": "San Antonio",
+          "s": ""
+        },
+        "gdtutc": "2020-04-15",
+        "utctm": "23:30",
+        "ppdst": "I"
+      }
+    ],
+    "ta": "SAS",
+    "tn": "Spurs",
+    "tc": "San Antonio"
+  }
+}
+
